@@ -1,6 +1,6 @@
 # Olá eu me chamo Matheus Moraes Becker Stanzione  
 
-🚀 Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Science/Outro] apaixonado(a) por tecnologia e soluções inovadoras.  
+🚀 Desenvolvedor(a) [Front-end/Back-end/Full-Stack/Data Science/Outro] apaixonado por tecnologia e soluções inovadoras.  
 
 ## 💻 Tecnologias  
 - **Linguagens:** JavaScript, Python, Java  
